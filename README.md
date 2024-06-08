@@ -1,8 +1,8 @@
 ### Olá Sou o Rodrigo Garcia ✋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rodrigo-garcia-a5ba501a1)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([www.linkedin.com/in/rodrigo-garcia-a5ba501a1](https://www.youtube.com/channel/UCenpDIzNLDuEs5NSzs5OTZA))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([www.linkedin.com/in/rodrigo-garcia-a5ba501a1](https://instagram.com/rodrigo_matematico))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-garcia-a5ba501a1/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCenpDIzNLDuEs5NSzs5OTZA)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigo_matematico)
 
 ![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo77garcia&show_icons=true&theme=radical)
 
@@ -21,3 +21,11 @@
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
+
+
+
+
+
+
+
+
