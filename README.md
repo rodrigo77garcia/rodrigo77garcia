@@ -7,8 +7,6 @@
 ## Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](matcomp.rodrigo@gmail.com)
 
-![Rodrigo GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigo77garcia&show_icons=true&theme=radical)
-
 ## Tecnologias que uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
